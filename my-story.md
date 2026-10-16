@@ -12,7 +12,7 @@
 
 ```bash
 git config --global user.name "baten2283"
-git config --global user.email "baten2283@gmail.com"
+git config --global user.email "baten22583@gmail.com"
 mkdir nanur-khata && cd nanur-khata
 git init
 ```
