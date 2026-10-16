@@ -9,7 +9,7 @@
 set -e
 
 MY_NAME="Md Ruman"
-MY_EMAIL="baten2283@gmail.com"
+MY_EMAIL="baten22583@gmail.com"
 REMOTE_URL="https://github.com/baten2283/nanur-khata.git"
 
 say() { echo; echo "================ $* ================"; }
