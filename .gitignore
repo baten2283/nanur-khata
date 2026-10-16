@@ -1,0 +1,8 @@
+# Nanu's secret spice must never leave this kitchen
+secret-masala.txt
+
+# temporary files
+*.tmp
+
+# unfinished drafts
+draft/
